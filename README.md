@@ -1,0 +1,2 @@
+# go_es_person_api
+Golang使用elasticsearch对[person]index进行增删改查的API
